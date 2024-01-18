@@ -1,5 +1,5 @@
-from telethon import TelegramClient, events
 import time
+from telethon import TelegramClient, events
 from dotenv import dotenv_values
 
 config = dotenv_values(".env")
